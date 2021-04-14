@@ -1,4 +1,4 @@
-[{
+{ "products" : [{
   "title": "Brown eggs",
   "type": "dairy",
   "description": "Raw organic brown eggs in a basket",
@@ -448,4 +448,4 @@
   "width": 400,
   "price": 25.62,
   "rating": 3
-}]
+}] }
